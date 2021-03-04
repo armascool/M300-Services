@@ -1,10 +1,17 @@
 # M300-Services
 
-One Paragraph of project description goes here
+Das Modul 300 habe ich Armas Krebs bei Herrn Kälin. Ich bin in der ST18c und bin zur Zeit im 3. Lehrjahr als Systemtechniker EFZ bei der SwissTXT und bei der Berufsschule TBZ.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+In diesem Modul habe ich folgendes gemacht:
+* SaaS, PaaS, IaaS kennengelernt
+* Github kennengelernt und benutzt (Repository erstellt)
+* Git Bash kennengelernt und benutzt (Repository klonen auf meinen PC und Änderungen hochladen)
+* Virtualbox heruntergeladen, Ubuntu VM erstellt, updated und synaptic und apache webserver installiert
+* Vagrant installiert und damit eine VM ganz einfach erstellt via Vagrant Konsole
+* Visual Studio Code installiert und alle Abhängigkeiten, welche für Github benötigt werden, installiert
+* mit Visual Studio Code README file von Github bearbeitet und pushen (das was Sie hier lesen)
 
 ### Prerequisites
 
