@@ -30,9 +30,7 @@ M300 - 25 Infrastruktur-Sicherheit
 
 ## Github kennengelernt und benutzt (Repository erstellt)
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Github Account erstellen unter --> [https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home]
 
 ```
 Give the example
