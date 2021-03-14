@@ -41,8 +41,27 @@ GitBash habe ich folgendermassen konfiguriert:
 ```
 $ git config --global user.name "<username>"
 $ git config --global user.email "<e-mail>"
+$ git clone https://github.com/armascool/M300-Services
+$ cd M300
+$ git pull
+Already up to date.
+$ git status
+Your branch is up to date with 'origin/master'.
+$ cd C:\Users\Armas\M300-Services
+$ mkdir MeinLokalesRepository
+$ git clone git@github.com:armascool/M300-Services.git
+Cloning into 'M300-Services'...
+$ git pull
+Already up to date.
 ```
+Um das Repository hochzuladen, falls ich eine Änderung lokal an meinem Repository vorgenommen habe, gehe ich wie folgt vor:
 
+```
+$ cd Pfad/zu/meinem/Repository
+$ git add -A .
+$ git commit -m "Mein Kommentar"
+$ git push
+```
 ## Virtualbox
 
 Explain what these tests test and why
