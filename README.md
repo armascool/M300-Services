@@ -104,8 +104,10 @@ Dieser freie Quelltext-Editor von Microsoft, ermöglicht uns, unsere Workflows b
 Folgende extensions brauche ich, damit die Integration mit Github funktioniert:  
 1. Markdown All in One (von Yu Zhang)
 2. Vagrant Extension (von Marco Stanzi)
-3. vscode-pdf Extension (von tomiko1207)
-um diese zu installieren --> CTRL + SHIFT + X
+3. vscode-pdf Extension (von tomiko1207)  
+um diese zu installieren --> CTRL + SHIFT + X  
+
+[Einstellungen anpassen von VSC](https://github.com/mc-b/M300/tree/master/10-Toolumgebung#einstellungen-anpassen), da ansonsten die Files der VMs ins Cloud-Repository hochgeladen werden.
 
 ## README file einrichten
 
