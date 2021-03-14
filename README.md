@@ -27,7 +27,9 @@ M300 - 25 Infrastruktur-Sicherheit
 * Benutzer- & Rechteverwaltung
 * SSH
 * Authentifizierung & Autorisierung
-
+#
+#
+#
 ## Github kennengelernt und benutzt (Repository erstellt)
 
 Github Account erstellen unter                      --> [Hier klicken](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)  
@@ -110,8 +112,6 @@ um diese zu installieren --> CTRL + SHIFT + X
 [Einstellungen anpassen von VSC](https://github.com/mc-b/M300/tree/master/10-Toolumgebung#einstellungen-anpassen), da ansonsten die Files der VMs ins Cloud-Repository hochgeladen werden.
 
 ## README file einrichten
-1.
-2.
 1. Visual Studio Code öffnen
 2. Änderungen an entsprechenden Dateien des lokalen Repositorys vornehmen
 3. In der linken Leiste das Symbol mit einer "1" aufrufen
@@ -121,4 +121,6 @@ um diese zu installieren --> CTRL + SHIFT + X
 7. Warten, bis Dateien vollständig gepusht wurden
 
 
-#        
+#
+#
+#
