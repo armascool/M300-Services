@@ -36,7 +36,12 @@ Das erstellen vom Repository habe ich 1 zu 1 nach [dieser Anleitung](https://git
 
 ## Git Bash kennengelernt und benutzt
 
-Explain how to run the automated tests for this system
+Um mit GitHub zu kommunizieren und die Repositories lokal bearbeiten zu können und sie wieder auf GitHub hochzuladen können, muss man es [hier](https://git-scm.com/downloads) herunterladen.
+GitBash habe ich folgendermassen konfiguriert:  
+```
+$ git config --global user.name "<username>"
+$ git config --global user.email "<e-mail>"
+```
 
 ## Virtualbox
 
