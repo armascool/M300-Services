@@ -13,14 +13,6 @@ In diesem Modul habe ich folgendes gemacht:
 * Visual Studio Code installiert und alle Abhängigkeiten, welche für Github benötigt werden, installiert
 * mit Visual Studio Code README file von Github bearbeitet und pushen (das was Sie hier lesen)
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
