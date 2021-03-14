@@ -30,7 +30,9 @@ M300 - 25 Infrastruktur-Sicherheit
 
 ## Github kennengelernt und benutzt (Repository erstellt)
 
-Github Account erstellen unter --> [https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home]
+Github Account erstellen unter                      --> [Hier klicken](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+Github einloggen, falls Account bereits vorhanden   --> [Hier klicken](https://github.com/login)
+
 
 ```
 Give the example
