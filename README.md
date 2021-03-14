@@ -141,7 +141,7 @@ um diese zu installieren --> CTRL + SHIFT + X
 7. Warten, bis Dateien vollständig gepusht wurden
 
 ## Netzwerkplan meiner Infrastruktur
-hier kommt das Bild hin
+![Netzwerk-Plan-LB01](https://user-images.githubusercontent.com/78543196/111078012-d3302800-84f3-11eb-86bd-d334b63acb16.jpg)
 
 #
 #
