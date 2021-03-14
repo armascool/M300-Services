@@ -2,6 +2,13 @@
 
 Das Modul 300 habe ich, Armas Krebs bei Herrn Kälin. Ich bin in der ST18c und bin zur Zeit im 3. Lehrjahr als Systemtechniker EFZ bei der SwissTXT und besuche die Berufsschule TBZ.
 
+### Vorwissen
+Ich hatte keine Ahnung von den Sachen gehabt, die wir bei diesem Modul angeschaut haben, ausser das erstellen der VM.
+
+### Wissenzuwachs
+Ich hoffe, dass mir das Wissen, welches ich unten dokumentiert habe, mir noch für ein Weilchen bleibt.
+
+
 ## Übersicht der LB01
 
 M300 - 10 Toolumgebung
