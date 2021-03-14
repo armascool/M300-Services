@@ -112,6 +112,13 @@ um diese zu installieren --> CTRL + SHIFT + X
 ## README file einrichten
 1.
 2.
-3.
+1. Visual Studio Code öffnen
+2. Änderungen an entsprechenden Dateien des lokalen Repositorys vornehmen
+3. In der linken Leiste das Symbol mit einer "1" aufrufen
+4. Unter dem Abschnitt Changes die betroffenen Files bezüglich ihres Changes "stagen" (Stage Changes)
+5. Nachricht hinterlegen (Message) und Haken (Commit) setzen
+6. Bei den 3 Punkten (...) die Funktion Push aufrufen
+7. Warten, bis Dateien vollständig gepusht wurden
+
 
 #        
