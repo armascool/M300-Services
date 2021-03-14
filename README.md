@@ -34,18 +34,6 @@ Github Account erstellen unter                      --> [Hier klicken](https://g
 Github einloggen, falls Account bereits vorhanden   --> [Hier klicken](https://github.com/login)  
 Das erstellen vom Repository habe ich 1 zu 1 nach [dieser Anleitung](https://github.com/mc-b/M300/tree/master/10-Toolumgebung#-01---github-account) gemacht und ich brauche hier nichts mehr hinzuzufügen.
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Git Bash kennengelernt und benutzt
 
 Explain how to run the automated tests for this system
