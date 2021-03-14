@@ -64,8 +64,8 @@ $ git push
 ```
 ## Virtualbox
 
-Virtualbox, habe ich [hier](https://www.virtualbox.org/) gedownloaded und installiert.  Da mir der Prozess mehr als vertraut ist, kann ich mir die Doku sparen. [Hier](https://github.com/mc-b/M300/tree/master/10-Toolumgebung#--03---virtualbox) ist das Tutorial, falls ich in der Zukunft keinen Plan mehr habe. 
-
+Virtualbox, habe ich [hier](https://www.virtualbox.org/) gedownloaded und installiert.  Da mir der Prozess mehr als vertraut ist, kann ich mir die Doku sparen. [Hier](https://github.com/mc-b/M300/tree/master/10-Toolumgebung#--03---virtualbox) ist das Tutorial, falls ich in der Zukunft keinen Plan mehr habe.  
+Als Betriebssystem für die VM habe ich folgendes OS verwendet --> Ubuntu Desktop [16.04.05](http://old-releases.ubuntu.com/releases/16.04.5/)
 ```
 Give an example
 ```
