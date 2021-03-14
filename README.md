@@ -65,10 +65,16 @@ $ git push
 ## Virtualbox
 
 Virtualbox, habe ich [hier](https://www.virtualbox.org/) gedownloaded und installiert.  Da mir der Prozess mehr als vertraut ist, kann ich mir die Doku sparen. [Hier](https://github.com/mc-b/M300/tree/master/10-Toolumgebung#--03---virtualbox) ist das Tutorial, falls ich in der Zukunft keinen Plan mehr habe.  
-Als Betriebssystem für die VM habe ich folgendes OS verwendet --> Ubuntu Desktop [16.04.05](http://old-releases.ubuntu.com/releases/16.04.5/)
+Als Betriebssystem für die VM habe ich folgendes OS verwendet --> Ubuntu Desktop [16.04.05](http://old-releases.ubuntu.com/releases/16.04.5/)  
+Folgende Befehle habe ich in der VM abgefeuert:
 ```
-Give an example
+$  sudo apt-get update   #Paketlisten des Paketmanagement-Systems "APT" neu einlesen
+$  sudo apt-get upgrade   #Installierte Pakete wenn möglich auf verbesserte Versionen aktualisieren
+$  sudo reboot           #System-Neustart durchführen
+$  sudo apt-get install synaptic
+$  sudo reboot
 ```
+Mit Browser prüfen, ob der Standard-Content des Webservers unter "http://127.0.0.01:80" (localhost) erreichbar ist.
 
 ## Vagrant
 
