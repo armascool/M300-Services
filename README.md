@@ -2,7 +2,7 @@
 
 Das Modul 300 habe ich, Armas Krebs bei Herrn Kälin. Ich bin in der ST18c und bin zur Zeit im 3. Lehrjahr als Systemtechniker EFZ bei der SwissTXT und besuche die Berufsschule TBZ.
 
-## Was habe ich in diesem Modul grob gemacht
+## Übersicht der LB01
 
 M300 - 10 Toolumgebung
 * SaaS, PaaS, IaaS kennengelernt
