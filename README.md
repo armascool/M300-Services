@@ -12,6 +12,14 @@ M300 - 10 Toolumgebung
 * Vagrant installiert und damit eine VM ganz einfach erstellt via Vagrant Konsole
 * Visual Studio Code installiert und alle Abhängigkeiten, welche für Github benötigt werden, installiert
 * mit Visual Studio Code README file von Github bearbeitet und pushen (das was Sie hier lesen)
+M300 - 20 Infrastruktur-Automatisierung
+* ff
+* ff
+* ff
+M300 - 25 Infrastruktur-Sicherheit
+* ff
+* ff
+* ff
 
 ### Installing
 
