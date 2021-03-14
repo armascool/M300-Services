@@ -78,10 +78,22 @@ Mit Browser prüfen, ob der Standard-Content des Webservers unter "http://127.0.
 
 ## Vagrant
 
-Explain what these tests test and why
+Vagrant ist eine freie Ruby-Anwendung zur Erstellung und Verwaltung virtueller Maschinen und ermöglicht einfache Softwareverteilung.  
+[---Download von Vagrant---](https://www.vagrantup.com/)  
 
+VM erstellen:  
 ```
-Give an example
+ $ cd Wohin/auch/immer
+ $ mkdir MeineVagrantVM
+ $ cd MeineVagrantVM
+ $ vagrant init ubuntu/xenial64        #Vagrantfile erzeugen
+ $ vagrant up --provider virtualbox    #Virtuelle Maschine erstellen & starten
+ $ cd Pfad/zu/meiner/Vagrant-VM      #Zum Verzeichnis der VM wechseln
+ $ vagrant ssh                       #SSH-Verbindung zur VM aufbauen
+ #Anschliessend können ganz normale Bash-Befehle abgesetzt werden:
+ $ ls -l /bin  #Bin-Verzeichnis anzeigen
+ $ df -h       #Freier Festplattenspeicher
+ $ free -m     #Freier Arbeitsspeicher
 ```
 
 ## Visual Studio Code
