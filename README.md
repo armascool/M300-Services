@@ -105,6 +105,7 @@ Folgende extensions brauche ich, damit die Integration mit Github funktioniert:
 1. Markdown All in One (von Yu Zhang)
 2. Vagrant Extension (von Marco Stanzi)
 3. vscode-pdf Extension (von tomiko1207)
+um diese zu installieren --> CTRL + SHIFT + X
 
 ## README file einrichten
 
