@@ -5,7 +5,7 @@ Das Modul 300 habe ich, Armas Krebs bei Herrn Kälin. Ich bin in der ST18c und b
 ## Übersicht der LB01
 
 M300 - 10 Toolumgebung
-* SaaS, PaaS, IaaS kennengelernt
+
 * Github kennengelernt und benutzt (Repository erstellt)
 * Git Bash kennengelernt und benutzt (Repository klonen auf meinen PC und Änderungen hochladen)
 * Virtualbox heruntergeladen, Ubuntu VM erstellt, updated und synaptic und apache webserver installiert
@@ -15,15 +15,19 @@ M300 - 10 Toolumgebung
 
 M300 - 20 Infrastruktur-Automatisierung
 
-* ff
-* ff
-* ff
+* Cloud Computing,SaaS, PaaS, IaaS kennengelernt
+* Infrastructure as Code
+* Vagrant
+* Packer
+* AWS Cloud
 
 M300 - 25 Infrastruktur-Sicherheit
 
-* ff
-* ff
-* ff
+* Firewall & Reverse Proxy
+* Benutzer- & Rechteverwaltung
+* SSH
+* Authentifizierung & Autorisierung
+
 
 ### Installing
 
