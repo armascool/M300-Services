@@ -19,6 +19,7 @@ M300 - 10 Toolumgebung
 * [Vagrant installiert und damit eine VM ganz einfach erstellt via Vagrant Konsole](https://github.com/armascool/M300-Services/blob/main/README.md#vagrant)
 * [Visual Studio Code installiert und alle Abhängigkeiten, welche für Github benötigt werden, installiert](https://github.com/armascool/M300-Services#visual-studio-code)
 * [mit Visual Studio Code README file von Github bearbeitet und pushen (das was Sie hier lesen)](https://github.com/armascool/M300-Services#readme-file-einrichten)
+* Netzwerkplan meiner Infrastruktur
 
 M300 - 20 Infrastruktur-Automatisierung
 
@@ -139,6 +140,8 @@ um diese zu installieren --> CTRL + SHIFT + X
 6. Bei den 3 Punkten (...) die Funktion Push aufrufen
 7. Warten, bis Dateien vollständig gepusht wurden
 
+## Netzwerkplan meiner Infrastruktur
+hier kommt das Bild hin
 
 #
 #
