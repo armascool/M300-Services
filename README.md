@@ -2,9 +2,8 @@
 
 Das Modul 300 habe ich, Armas Krebs bei Herrn Kälin. Ich bin in der ST18c und bin zur Zeit im 3. Lehrjahr als Systemtechniker EFZ bei der SwissTXT und besuche die Berufsschule TBZ.
 
-## Getting Started
+## Was habe ich in diesem Modul grob gemacht
 
-In diesem Modul habe ich folgendes gemacht:
 * SaaS, PaaS, IaaS kennengelernt
 * Github kennengelernt und benutzt (Repository erstellt)
 * Git Bash kennengelernt und benutzt (Repository klonen auf meinen PC und Änderungen hochladen)
