@@ -104,6 +104,18 @@ VM erstellen:
  $ df -h       #Freier Festplattenspeicher
  $ free -m     #Freier Arbeitsspeicher
 ```
+#### Vagrant Befehlesübersicht
+
+Befehl | Erklärung | Beispiel
+------------ | ------------- | -------------
+`vagrant init` | Initalisiert im aktuellen Verzeichnis eine Vagrant Umgebung und falls noch kein Vagrant File vorhanden ist erstellt es dieses | `vagrant init ubuntu/xenial64`
+`vagrant up` | Fährt diese VM hoch, in welchem Verzeichnis man das ausführt | `vagrant up --provider virtualbox` --> oder nur vagrant up
+`vagrant ssh` | Baut eine SSH Verbindung mit dem VM auf | -
+`vagrant status` | Zeigt den Status der VM an| -
+`vagrant port` | Zeigt Port von PortForwarding an | -
+`vagrant halt` | Stoppt VM | -
+`vagrant destroy` | Löscht VM | -
+`vagrant -v` | Zeigt Vagrant Version an | -
 
 ## Visual Studio Code
 
