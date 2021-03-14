@@ -98,7 +98,13 @@ VM erstellen:
 
 ## Visual Studio Code
 
-Add additional notes about how to deploy this on a live system
+Dieser freie Quelltext-Editor von Microsoft, ermöglicht uns, unsere Workflows besser zu gestalten und damit die Arbeit um einiges leichter zu machen.  
+[---Download von VSC---](https://code.visualstudio.com/)  
+
+Folgende extensions brauche ich, damit die Integration mit Github funktioniert:  
+1. Markdown All in One (von Yu Zhang)
+2. Vagrant Extension (von Marco Stanzi)
+3. vscode-pdf Extension (von tomiko1207)
 
 ## README file einrichten
 
