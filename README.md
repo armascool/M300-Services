@@ -150,22 +150,7 @@ um diese zu installieren --> CTRL + SHIFT + X
 In diese Modul habe ich gelernt, wie man mit Markdown in GitHub ganz einfach tolle Dokumentationen über ein Repository/Projekt machen kann. Man erstellt ganz einfach ein Markdown file und schreibt und rein was man in dem File haben will. Danach kann man sich eine coole Doku aus dem Internet heraus suchen über Markdown GitHub. Dort gibt es so tolle Befehle wie z.b. # mit dem man einfach eine Überschrift machen kann. 
 Man kann auch ganz normale links machen, auf die man klicken kann. Man kann aber auch links machen bei denen nicht der Link im klickbaren Link steht sondern etwas etwas anderes wie z.b. Klick mich oder der Name von einem Programm.  
   
-Unten sind ein paar praktische Markdown Befehle aufgelistet, welche ich unter anderem verwendet habe in meinem markdown file.  
-
-Überschrift 1:   <p>test</p>
-<p>Dieses <b>Wort</b> ist fett und dieses <strong>auch</strong>.</p>
-
-Überschrift 2:   
-
-Normaler Text:   
-
-Klickbarer Link:   
-
-Klickbarer Link mit Text:  
-
-Bild,welches auf Github hochladen wurde:   
-
-Neue Zeile:   
+Das Tutorial, das mir am meisten gebracht hat, ist dieses --> [guides.github.com Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)  
 
 #
 #
