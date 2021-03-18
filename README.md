@@ -25,8 +25,8 @@ M300 - 10 Toolumgebung
 M300 - 20 Infrastruktur-Automatisierung
 
 * [Cloud Computing,SaaS, PaaS, IaaS kennengelernt](https://github.com/armascool/M300-Services/blob/main/README.md#cloud-computingsaas-paas-iaas-kennengelernt)
-* Infrastructure as Code
-* Vagrant
+* [Infrastructure as Code](https://github.com/armascool/M300-Services/blob/main/README.md#infrastructure-as-code)
+* [Vagrant](https://github.com/armascool/M300-Services/blob/main/README.md#Vagrant)
 
 
 M300 - 25 Infrastruktur-Sicherheit
@@ -156,7 +156,7 @@ Das Tutorial, das mir am meisten gebracht hat, ist dieses --> [guides.github.com
 #
 ## Cloud Computing,SaaS, PaaS, IaaS kennengelernt
 test
-## Infrastructure as Cod
+## Infrastructure as Code
 sdjflksj
 ## Vagrant
 dfjkls
