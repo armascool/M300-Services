@@ -155,16 +155,24 @@ Das Tutorial, das mir am meisten gebracht hat, ist dieses --> [guides.github.com
 #
 #
 ## Cloud Computing,SaaS, PaaS, IaaS kennengelernt
+
+
 Cloud Computing ist die Bereitstellung von IT-Ressourcen durch einen Provider via Internet.   
 Als Ressourcen können folgende Beispiele bereitgestellt werden --> 
 * Hardware
 * Applikationen
 * E-Mail
-  
+![2](https://user-images.githubusercontent.com/78543196/111645894-75f0eb00-8801-11eb-8543-fa5374eeab89.PNG)  
 Bei Cloud Computing, um die Materie zu vereinfachen und um alles besser einorden zu können, gibt es verschiedene Kategorien:
 
+#### Infrastructure as a Service (IaaS)
+hkjh
 #### Computing as a Service (CaaS)
 test
+#### Platform as a Service (PaaS)
+kjhkjh
+#### Software-as-a-Service (SaaS)
+jlkjlk
 
 
 ## Infrastructure as Code
