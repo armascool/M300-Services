@@ -20,6 +20,7 @@ M300 - 10 Toolumgebung
 * [Visual Studio Code installiert und alle Abhängigkeiten, welche für Github benötigt werden, installiert](https://github.com/armascool/M300-Services#visual-studio-code)
 * [mit Visual Studio Code README file von Github bearbeitet und pushen (das was Sie hier lesen)](https://github.com/armascool/M300-Services#readme-file-einrichten)
 * [Netzwerkplan meiner Infrastruktur](https://github.com/armascool/M300-Services/blob/main/README.md#netzwerkplan-meiner-infrastruktur)
+* [Markdown Befehle](https://github.com/armascool/M300-Services/blob/main/README.md#markdown-befehle)
 
 M300 - 20 Infrastruktur-Automatisierung
 
@@ -143,9 +144,7 @@ um diese zu installieren --> CTRL + SHIFT + X
 ## Netzwerkplan meiner Infrastruktur
 ![Netzwerk-Plan-LB01](https://user-images.githubusercontent.com/78543196/111078012-d3302800-84f3-11eb-86bd-d334b63acb16.jpg)
 
-#
-#
-#
+
 
 ## Markdown Befehle
 In diese Modul habe ich gelernt, wie man mit Markdown in GitHub ganz einfach tolle Dokumentationen über ein Repository/Projekt machen kann. Man erstellt ganz einfach ein Markdown file und schreibt und rein was man in dem File haben will. Danach kann man sich eine coole Doku aus dem Internet heraus suchen über Markdown GitHub. Dort gibt es so tolle Befehle wie z.b. # mit dem man einfach eine Überschrift machen kann. 
@@ -153,16 +152,20 @@ Man kann auch ganz normale links machen, auf die man klicken kann. Man kann aber
   
 Unten sind ein paar praktische Markdown Befehle aufgelistet, welche ich unter anderem verwendet habe in meinem markdown file.  
 
-Überschrift 1   
+Überschrift 1:   
 
-Überschrift 2   
+Überschrift 2:   
 
-Normaler Text   
+Normaler Text:   
 
-Klickbarer Link   
+Klickbarer Link:   
 
-Klickbarer Link mit Text  
+Klickbarer Link mit Text:  
 
-Bild,welches auf Github hochladen wurde   
+Bild,welches auf Github hochladen wurde:   
 
-Neue Zeile   
+Neue Zeile:   
+
+#
+#
+#
