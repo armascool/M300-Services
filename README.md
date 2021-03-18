@@ -27,8 +27,7 @@ M300 - 20 Infrastruktur-Automatisierung
 * Cloud Computing,SaaS, PaaS, IaaS kennengelernt
 * Infrastructure as Code
 * Vagrant
-* Packer
-* AWS Cloud
+
 
 M300 - 25 Infrastruktur-Sicherheit
 
@@ -155,3 +154,9 @@ Das Tutorial, das mir am meisten gebracht hat, ist dieses --> [guides.github.com
 #
 #
 #
+## Cloud Computing,SaaS, PaaS, IaaS kennengelernt
+test
+## Infrastructure as Cod
+sdjflksj
+## Vagrant
+dfjkls
