@@ -27,6 +27,14 @@ M300 - 20 Infrastruktur-Automatisierung
 * [Cloud Computing,SaaS, PaaS, IaaS kennengelernt](https://github.com/armascool/M300-Services/blob/main/README.md#cloud-computingsaas-paas-iaas-kennengelernt)
 * [Infrastructure as Code](https://github.com/armascool/M300-Services/blob/main/README.md#infrastructure-as-code)
 
+M300 - 25 Infrastruktur-Sicherheit
+
+* Firewall & Reverse Proxy
+* Benutzer- & Rechteverwaltung
+* SSH
+* Authentifizierung & Autorisierung
+* 
+
 
 ## Github kennengelernt und benutzt (Repository erstellt)
 
