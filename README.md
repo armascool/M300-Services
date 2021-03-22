@@ -193,4 +193,9 @@ automatiseren zur schnellen und unkomplizierten Erstellung einer Infrastruktur
 * infrastructure provisioning --> Server, VM erstellen, Netzwerkkonfiguration, loadbalancers (nur Infrastruktur)
 * configuration of provisioned infrastructure --> Applikationen installieren und die managen 
 * Deployment of application --> Applikation laufen lassen (Zweck von dieser Infrastruktur zum laufen zu bringen)
+#
+#
+#
+##Firewall & Reverse Proxy
+test
 
