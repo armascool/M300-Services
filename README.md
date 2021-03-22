@@ -166,16 +166,35 @@ Als Ressourcen können folgende Beispiele bereitgestellt werden -->
 Bei Cloud Computing, um die Materie zu vereinfachen und um alles besser einorden zu können, gibt es verschiedene Kategorien:
 
 #### Infrastructure as a Service (IaaS)
-hkjh
-#### Computing as a Service (CaaS)
-test
+* Infrastruktur, also Server mit Backupsystem wird bereitgestellt
+* On-demand Ressourcen kaufen anstatt physische beschaffung
+* gleiche Möglichkeiten wie bei einem normalen Datacenter aber ohne etwas selber physisch zu kaufen und zu betreiben
+* flexibelste Cloud Modell und Kunde hat Kontrolle über die ganze Infrastruktur, die er gekauft/gemietet hat
+* Beispiele: DigitalOcean, Linode, Rackspace, Amazon Web Services (AWS), Cisco Metapod, Microsoft Azure, Google Compute Engine (GCE)
+
+
 #### Platform as a Service (PaaS)
-kjhkjh
+* gemacht für Entwickler von Webanwendungen
+* Kunde kriegt Plattform zur Verfügung gestellt, diese ist meistens eine VM mit einem Betriebsystem drauf.
+* Man kann als Kunde frei entscheiden, was man mit der Plattform macht.
+* Verfügbar über Webbrowser oder kleine Anwendungen zum Verbindungsaufbau zur Plattform.
+* Beispiele: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos, OpenShift
+
+
 #### Software-as-a-Service (SaaS)
-jlkjlk
+* Software, welche über das Internet bereitgestellt wird.
+* keine Software muss lokal installiert werden, da sie auf der Cloud läuft.
+* günstig, weil mehrere Benutzer gleichzeit Software verwenden können
+* meiste über Webbrowser erreichbar
+* Beispiele: Google Drive, Gmail, Office 365
 
 
 ## Infrastructure as Code
-sdjflksj
+automatiseren zur schnellen und unkomplizierten Erstellung einer Infrastruktur  
+3 verschiedene Anwendungsmöglichkeiten von IaC:
+* infrastructure provisioning --> Server, VM erstellen, Netzwerkkonfiguration, loadbalancers (nur Infrastruktur)
+* configuration of provisioned infrastructure --> Applikationen installieren und die managen 
+* Deployment of application --> Applikation laufen lassen (Zweck von dieser Infrastruktur zum laufen zu bringen)
+
 ## Vagrant
 dfjkls
