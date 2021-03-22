@@ -196,6 +196,15 @@ automatiseren zur schnellen und unkomplizierten Erstellung einer Infrastruktur
 #
 #
 #
-##Firewall & Reverse Proxy
-test
+## Firewall & Reverse Proxy
+te
+
+## Benutzer- & Rechteverwaltung
+jlkj
+
+## SSH
+kjlj
+
+## Authentifizierung & Autorisierung
+jkljk
 
