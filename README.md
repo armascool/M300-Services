@@ -26,18 +26,8 @@ M300 - 20 Infrastruktur-Automatisierung
 
 * [Cloud Computing,SaaS, PaaS, IaaS kennengelernt](https://github.com/armascool/M300-Services/blob/main/README.md#cloud-computingsaas-paas-iaas-kennengelernt)
 * [Infrastructure as Code](https://github.com/armascool/M300-Services/blob/main/README.md#infrastructure-as-code)
-* [Vagrant](https://github.com/armascool/M300-Services/blob/main/README.md#Vagrant-1)
 
 
-M300 - 25 Infrastruktur-Sicherheit
-
-* Firewall & Reverse Proxy
-* Benutzer- & Rechteverwaltung
-* SSH
-* Authentifizierung & Autorisierung
-#
-#
-#
 ## Github kennengelernt und benutzt (Repository erstellt)
 
 Github Account erstellen unter                      --> [Hier klicken](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)  
@@ -196,5 +186,3 @@ automatiseren zur schnellen und unkomplizierten Erstellung einer Infrastruktur
 * configuration of provisioned infrastructure --> Applikationen installieren und die managen 
 * Deployment of application --> Applikation laufen lassen (Zweck von dieser Infrastruktur zum laufen zu bringen)
 
-## Vagrant
-dfjkls
