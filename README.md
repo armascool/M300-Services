@@ -33,7 +33,6 @@ M300 - 25 Infrastruktur-Sicherheit
 * Benutzer- & Rechteverwaltung
 * SSH
 * Authentifizierung & Autorisierung
-* 
 
 
 ## Github kennengelernt und benutzt (Repository erstellt)
