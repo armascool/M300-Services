@@ -30,7 +30,7 @@ M300 - 20 Infrastruktur-Automatisierung
 M300 - 25 Infrastruktur-Sicherheit
 
 * [Firewall & Reverse Proxy](https://github.com/armascool/M300-Services/blob/main/README.md#firewall--reverse-proxy)
-* Benutzer- & Rechteverwaltung
+* [Benutzer- & Rechteverwaltung](https://github.com/armascool/M300-Services/blob/main/README.md#benutzer---rechteverwaltung)
 * SSH
 * Authentifizierung & Autorisierung
 
