@@ -196,7 +196,24 @@ automatiseren zur schnellen und unkomplizierten Erstellung einer Infrastruktur
 #
 #
 ## Firewall & Reverse Proxy
-te
+#### Was ist eine Firewall und was macht sie?
+* Firewall dient zur Sicherheit von Geräten und Netzwerken in dem sie den Datenverkehr regelt
+* In einer Firewall befinden sich verschiedene NICs, also Netzwerkanschlüsse
+* Diese NICs braucht man dann um Regeln zu erstellen, also zB: alles was beim NIC 1 reinkommt und zu NIC2 hin will, wird blockiert.
+* Firewalls kann man als physisches Gerät kaufen, diese können günstig bis sehr teuer sein
+* das wichtige bei einer Firewall ist aber der Software Aspket, dort regelt man alles, dieser ist natürlich auch bei einer physischen Firewall bereits drauf
+* eine Firewall kann auch eine einfache Virtuelle Maschine mit einer gratis Firewall Software darauf installiert sein --> siehe [UFW Firewall](https://wiki.ubuntuusers.de/ufw/)
+
+#### Was ist ein Proxy?
+* 1
+* 2
+* 3
+
+#### Was ist ein Reverse Proxy?
+* 2
+* 23
+* 4
+
 
 ## Benutzer- & Rechteverwaltung
 jlkj
