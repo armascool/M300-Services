@@ -204,7 +204,7 @@ automatiseren zur schnellen und unkomplizierten Erstellung einer Infrastruktur
 * das wichtige bei einer Firewall ist aber der Software Aspket, dort regelt man alles, dieser ist natürlich auch bei einer physischen Firewall bereits drauf
 * eine Firewall kann auch eine einfache Virtuelle Maschine mit einer gratis Firewall Software darauf installiert sein --> siehe [UFW Firewall](https://wiki.ubuntuusers.de/ufw/)
 
-#### Was ist ein Proxy?
+#### Was ist ein Proxy (auch Forward-Proxy genannt)?
 * das ist ein Server, besser gesagt Computer mit einer anderen öffentlichen IP Adresse, über den man im Internet Sachen aufruft
 * somit kann man als Benutzer/Client seine Identität schützen und verbergen
 * bei einem Proxy kann man einstellen, dass man gewisse Websites sperrt
@@ -212,12 +212,17 @@ automatiseren zur schnellen und unkomplizierten Erstellung einer Infrastruktur
 * umformuliert kann man auch sagen  
 *"Grundlegende Aufgabe des Proxy-Servers ist es, Client-Anfragen an einen Server stellvertretend entgegenzunehmen und mit der eigenen IP-Adresse an den Zielrechner weiterzuleiten. Bei dieser Art der Kommunikation besteht keine direkte Verbindung zwischen Absender und Empfänger."*
 --> [Quelle](https://www.ionos.de/digitalguide/server/knowhow/was-ist-ein-proxy-server/#:~:text=Grundlegende%20Aufgabe%20des%20Proxy%2DServers,Verbindung%20zwischen%20Absender%20und%20Empf%C3%A4nger.)
-* test
+* Geoblocking kann so umgangen werden
+
 
 #### Was ist ein Reverse Proxy?
-* 2
-* 23
-* 4
+* die ist ein Proxy um Server zu schützen
+* dieser macht, dass wenn Clients aus dem Internet auf einen meiner Webserver zugreiffen will, wird die Anfrag erst zum Reverse Proxy geschickt  
+hier wird überprüft, ob die Anfrage normal aussieht --> Anhand von konfigurierten Sicherheitsregeln geprüft und wenn alles okay ist  
+wird die Anfrage (Website aufrufen) an den Webserver weitergeleitet
+* schützt vor DDOS Attacken, kann als Firewall dienen, kann Bots und Hacker blocken anhand von Regeln und auffälligen Serveranfragen
+* Bandbreitenkontrolle und Lastenverteilung
+* Anonymisierung
 
 
 ## Benutzer- & Rechteverwaltung
