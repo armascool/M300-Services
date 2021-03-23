@@ -251,14 +251,13 @@ Wenn man sich nun mit der Public-Key-Methode auf einem SSH-Server anmelden möch
 
 ## Authentifizierung & Autorisierung
 #### Was ist Authentifizierung?
-* 1
-* 2
-* 3
+* Hier wird geprüft, ob die Person, die sich für wen ausgibt, auch diese ist --> besser gesagt username und password wird überprüft
+
 
 #### Was ist Autorisierung?
-* 1
-* 2
-* 4
+* Wenn eine Authentifizierung korrekt durchlief, bekommt der User/Benutzer die Rechte erteilt, welche Ihm zustehen  
+das können zum Beispiel schreib- und oder lese Rechte sein
+
 
 
 
