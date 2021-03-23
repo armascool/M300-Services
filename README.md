@@ -211,6 +211,7 @@ automatiseren zur schnellen und unkomplizierten Erstellung einer Infrastruktur
 * man kann gemanagete Firemengeräte so einstellen, dass sie immer über einen Proxy ins Internet müssen und nie direkt
 * umformuliert kann man auch sagen  
 *"Grundlegende Aufgabe des Proxy-Servers ist es, Client-Anfragen an einen Server stellvertretend entgegenzunehmen und mit der eigenen IP-Adresse an den Zielrechner weiterzuleiten. Bei dieser Art der Kommunikation besteht keine direkte Verbindung zwischen Absender und Empfänger."*
+--> [Quelle](https://www.ionos.de/digitalguide/server/knowhow/was-ist-ein-proxy-server/#:~:text=Grundlegende%20Aufgabe%20des%20Proxy%2DServers,Verbindung%20zwischen%20Absender%20und%20Empf%C3%A4nger.)
 * test
 
 #### Was ist ein Reverse Proxy?
