@@ -235,7 +235,11 @@ wird die Anfrage (Website aufrufen) an den Webserver weitergeleitet
 * Fernzugriff von PC über eine Konsole
 
 #### SSH wichtige Befehle
-
+| Command                           | Beschreibung                                          |
+|-----------------------------------|-------------------------------------------------------|
+| ssh 192.168.56.101   ssh Hostname | verbindung ssh aufbauen entweder mit IP oder Hostname |
+| ssh username@hostname_oder_IP     | verbindung ssh aufbauen + Login                       |
+| ssh hostname_oder_IP -p 3322      | verbindung ssh aufbauen über anderen Port             |
 
 ## Authentifizierung & Autorisierung
 jkljk
