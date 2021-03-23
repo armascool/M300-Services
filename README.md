@@ -148,6 +148,7 @@ Man kann auch ganz normale links machen, auf die man klicken kann. Man kann aber
   
 Das Tutorial, das mir am meisten gebracht hat, ist dieses --> [guides.github.com Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)  
 
+Achtung exterm cooler Markdown Tabellen erstell Tool!!!!! --> **!!!!!!!!hier klicken!!!!!!!!**
 #
 #
 #
@@ -225,11 +226,17 @@ wird die Anfrage (Website aufrufen) an den Webserver weitergeleitet
 * Anonymisierung
 
 
-## Benutzer- & Rechteverwaltung
-jlkj
-
 ## SSH
-kjlj
+
+#### Was ist SSH?
+* SSH --> Secure Shell
+* Authentifizierung der Gegenstelle, kein Ansprechen falscher Ziele
+* Verschlüsselung der Datenübertragung, kein Mithören durch Unbefugte
+* Datenintegrität, keine Manipulation der übertragenen Daten
+* Fernzugriff von PC über eine Konsole
+
+#### SSH wichtige Befehle
+
 
 ## Authentifizierung & Autorisierung
 jkljk
