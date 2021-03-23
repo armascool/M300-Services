@@ -241,6 +241,24 @@ wird die Anfrage (Website aufrufen) an den Webserver weitergeleitet
 | ssh username@hostname_oder_IP     | verbindung ssh aufbauen + Login                       |
 | ssh hostname_oder_IP -p 3322      | verbindung ssh aufbauen über anderen Port             |
 
+#### Public Key Verfahren
+Man kann mit Hilfe von einem Public Key Verfahren seine SSH Verbindungen noch sicherer machen. Um dies zu ermöglichen wird asymmetrische Verschlüsselung genutzt, um den Benutzer zu authentifizieren.
+
+Die public Keys des Benutzers befindet sich dabei in der Datei ~/.ssh/authorized_keys des Zielsystems, der private Schlüssel in einer Datei (meist id_rsa) im Verzeichnis ~/.ssh auf dem lokalen System, wo er zusätzlich von einer "Pass Phrase" geschützt wird.
+
+Wenn man sich nun mit der Public-Key-Methode auf einem SSH-Server anmelden möchte, so schickt der Server dem Client eine zufällig generierte Challenge. Der Client verschlüsselt diesen Datenblock mit seinem privaten Schlüssel, (wofür nötigenfalls die Passphrase abgefragt wird,) und wenn der Server diesen Chiffre mit dem zugehörigen öffentlichen Schlüssel wieder entschlüsseln kann, ist die Identität des Benutzers bestätigt.
+
+
 ## Authentifizierung & Autorisierung
-jkljk
+#### Was ist Authentifizierung?
+* 1
+* 2
+* 3
+
+#### Was ist Autorisierung?
+* 1
+* 2
+* 4
+
+
 
