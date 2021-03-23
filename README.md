@@ -205,9 +205,13 @@ automatiseren zur schnellen und unkomplizierten Erstellung einer Infrastruktur
 * eine Firewall kann auch eine einfache Virtuelle Maschine mit einer gratis Firewall Software darauf installiert sein --> siehe [UFW Firewall](https://wiki.ubuntuusers.de/ufw/)
 
 #### Was ist ein Proxy?
-* 1
-* 2
-* 3
+* das ist ein Server, besser gesagt Computer mit einer anderen öffentlichen IP Adresse, über den man im Internet Sachen aufruft
+* somit kann man als Benutzer/Client seine Identität schützen und verbergen
+* bei einem Proxy kann man einstellen, dass man gewisse Websites sperrt
+* man kann gemanagete Firemengeräte so einstellen, dass sie immer über einen Proxy ins Internet müssen und nie direkt
+* umformuliert kann man auch sagen  
+*"Grundlegende Aufgabe des Proxy-Servers ist es, Client-Anfragen an einen Server stellvertretend entgegenzunehmen und mit der eigenen IP-Adresse an den Zielrechner weiterzuleiten. Bei dieser Art der Kommunikation besteht keine direkte Verbindung zwischen Absender und Empfänger."*
+* test
 
 #### Was ist ein Reverse Proxy?
 * 2
