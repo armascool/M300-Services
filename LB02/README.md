@@ -1,7 +1,7 @@
 
 # M300-Services LB02
 
-Das Hauptthema der LB02 ist Docker.
+Das Hauptthema der LB02 ist die Containerisierung mit den Programmen Docker und Kubernetes.
 
 ### Vorwissen
 Ich habe vor der LB02 keinerlei Vorkenntnisse über Docker und Kubernetes gehabt.
