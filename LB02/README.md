@@ -100,6 +100,12 @@ VOLUME /var/www/html
 
 CMD /bin/bash -c "source /etc/apache2/envvars && exec /usr/sbin/apache2 -DFOREGROUND"
 ```
+
+Dann habe ich mit dem Dockerfile ein Docker Image erstellt
+`docker build pathvomdockerfile` --> Docker Image ID aufschreiben/ merken
+
+Danach habe ich das Image gestartet
+`docker run --rm -d -p 8080:80 -v /web:/var/www/html --name TollerContainer123 ImageID`
 ## Docker Volumes
 ## Image-Bereitstellung
 ## Netzwerkplan meiner Infrastruktur
