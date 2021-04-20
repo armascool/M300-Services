@@ -32,6 +32,8 @@ Das Problem mit VMs sind dass jeder Software Test eine eigene VM benötigt. Jede
 ![image](https://user-images.githubusercontent.com/78543196/115438399-a3202700-a20d-11eb-926b-c137a89a7249.png)
 
 ## Was ist Docker?
+![image](https://user-images.githubusercontent.com/78543196/115438691-fc885600-a20d-11eb-8d73-af94b01e8e36.png)
+
 ## Docker Befehle
 Befehl | Erklärung 
 ------------ | ------------- | 
