@@ -122,6 +122,9 @@ Ich habe noch ein kleines HTML Index File gemacht, um den Apache Server zu teste
 </body>
 </html>
 ```
+
+Dann noch diese Index Datei in den Container kopieren
+`docker cp /SpeicherortDerDatei/index.html ContainereName:/var/www/html/`
 ## Docker Volumes
 ## Image-Bereitstellung
 ## Netzwerkplan meiner Infrastruktur
