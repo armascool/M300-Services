@@ -40,7 +40,7 @@ Befehl | Erklärung
 `docker inspect` | umfangreiche Informationen zu Container
 `docker diff` | Zeigt Änderungen auf am Dateisystem des Containers im Verleich zum Image, mit dem er gestartet wurde
 `docker top` | Gibt Informationen zu laufenden Prozessen in einem Container aus
-`docker build` | Container erstellt mit Hilfe von Bauplan --> Docker File
+`docker build` | Container erstellen mit Hilfe von Bauplan --> Docker File
 ## Docker Tutorial
 ## Docker Volumes
 ## Image-Bereitstellung
