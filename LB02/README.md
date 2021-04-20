@@ -136,6 +136,8 @@ Dann noch diese Index Datei in den Container kopieren
 `docker cp /SpeicherortDerDatei/index.html ContainereName:/var/www/html/`
 ## Docker Volumes
 ## Image-Bereitstellung
+
+```
 docker run -d -t --name dockerhubtest ubuntu  
 docker exec -it container_con /bin/bash  
 docker images  
@@ -145,6 +147,7 @@ docker exec -it dockerhubtest /bin/bash
 docker login  
 docker commit dockerhubtest  armascool/dockerhubtest:v0.1  
 docker pull armascool/dockerhubtest:v0.1
+```
 
 ![image](https://user-images.githubusercontent.com/78543196/115456728-c81f9480-a223-11eb-9af1-5c58ee13140c.png)
 ![image](https://user-images.githubusercontent.com/78543196/115457338-b12d7200-a224-11eb-891e-423437ca5545.png)
