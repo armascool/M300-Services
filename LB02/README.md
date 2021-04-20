@@ -122,7 +122,8 @@ Ich habe noch ein kleines HTML Index File gemacht, um den Apache Server zu teste
 </body>
 </html>
 ```
-![image](https://user-images.githubusercontent.com/78543196/115452145-598c0800-a21e-11eb-849e-a4d7107d6baf.png)
+![image](https://user-images.githubusercontent.com/78543196/115452145-598c0800-a21e-11eb-849e-a4d7107d6baf.png)  
+
 auf Container verbinden mit:
 ```
 docker exec -it container_con /bin/bash
