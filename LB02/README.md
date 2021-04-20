@@ -61,4 +61,6 @@ Befehl | Erklärung
 ## Docker Volumes
 ## Image-Bereitstellung
 ## Netzwerkplan meiner Infrastruktur
+![image](https://user-images.githubusercontent.com/78543196/115443557-b46c3200-a213-11eb-9396-ece702c3d4d8.png)
+
 
