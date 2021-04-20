@@ -36,8 +36,10 @@ Das Problem mit VMs sind dass jeder Software Test eine eigene VM benötigt. Jede
 Die Beschreibung von Wikipedia hat mir ausnahmsweise sehr gefallen.   
 "Docker ist eine Freie Software zur Isolierung von Anwendungen mit Hilfe von Containervirtualisierung. Docker vereinfacht die Bereitstellung von Anwendungen, weil sich Container, die alle nötigen Pakete enthalten, leicht als Dateien transportieren und installieren lassen."  
 
-**Docker File:** beschreibt den Inhalt eines Images, und es ist somit die Bauanleitung für Container. Mit build command kann man dann mit dem File ein Image erstellen.  
+**Docker File:** beschreibt den Inhalt eines Images, und es ist somit die Bauanleitung für Container. Mit build command kann man dann mit dem File ein Image erstellen. 
+  
 **Docker Image:** Ein Image ist eine Vorlage, also sozusagen ein Bauplan um Docker Container zu erstellen.   
+  
 **Docker Container:** Ein Container ist eine Umgebung, welche mit auf der Basis von einem Image läuft. Man kann ein Container ganz leicht erstellen, starten, stoppen, löschen und verschieben.
 ## Docker Befehle
 Befehl | Erklärung 
