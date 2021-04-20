@@ -62,17 +62,17 @@ Befehl | Erklärung
 ## Docker File Befehle
 Anweisung | Erklärung 
 ------------ | ------------- | 
-`FROM` | Gibt an welches "Base" Image verwendet werden soll
-`ADD` | Kopiert die Datei, aus dem Build Context oder von URLs in das Image
-`CMD` | Führt die angegebenen Anweisungen aus, wenn der Container gestartet wurde
+`FROM` | Base Image auswahl
+`ADD` | kopiert Datei Build Context oder Link in Image
+`CMD` | Befehle in dem Container, welche ausgeführt werden sollen
 `COPY` | Kopiert Dateien aus dem Build Context in das Image
-`ENTRYPOINT` | Legt eine ausführbare Datei fest, welche beim Start des Containers laufen soll
-`ENV` | Setzt Umgebungsvariablen im Image
+`ENTRYPOINT` | erstellt eine ausführbare Datei für Start vom Container
+`ENV` | Umgebungsvariablen erstellen für Image
 `HEASLTCHECK` | Docker prüft den Status der Anwendungen in einem Conatainer
-`MAINTAINER` | Setzt die "Autor-Metadaten" des Image auf den angegebenen Wert
+`MAINTAINER` | "Autor-Metadaten" des Image setzen
 `RUN` | Führt die angegebenen Anweisungen im Container aus und bestätigt das Ergebnis
-`SHELL` | Erlaubt der Shell für folgenden RUN-BEfehk zu setzen.
-`USER` | Setzt User, welcher in folgeden RUN-, CMD- oder ENTRYPOINT-ANweisungen genutzt werden soll.
+`SHELL` | Erlaubt der Shell für folgenden RUN-command zu setzen.
+`USER` | Setzt User, welcher in folgeden RUN-, CMD- oder ENTRYPOINT-Anweisungen genutzt werden soll.
 `VOLUME` | Deklariert die angegebene Datei oder das Verzeichnis als Volumen
 `WORKDIR` | Setzt Arbeitsverzeichnis für alle folgende RUN-, CMD-, ENTRYPOINT-, ADD oder COPY-Anweisung
 ## Docker Tutorial
