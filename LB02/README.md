@@ -33,7 +33,8 @@ Das Problem mit VMs sind dass jeder Software Test eine eigene VM benötigt. Jede
 
 ## Was ist Docker?
 ![image](https://user-images.githubusercontent.com/78543196/115438691-fc885600-a20d-11eb-8d73-af94b01e8e36.png)
-Die Beschreibung von Wikipedia hat mir ausnahmsweise sehr gefallen.   "Docker ist eine Freie Software zur Isolierung von Anwendungen mit Hilfe von Containervirtualisierung. Docker vereinfacht die Bereitstellung von Anwendungen, weil sich Container, die alle nötigen Pakete enthalten, leicht als Dateien transportieren und installieren lassen."
+Die Beschreibung von Wikipedia hat mir ausnahmsweise sehr gefallen.   
+"Docker ist eine Freie Software zur Isolierung von Anwendungen mit Hilfe von Containervirtualisierung. Docker vereinfacht die Bereitstellung von Anwendungen, weil sich Container, die alle nötigen Pakete enthalten, leicht als Dateien transportieren und installieren lassen."
 ## Docker Befehle
 Befehl | Erklärung 
 ------------ | ------------- | 
