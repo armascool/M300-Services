@@ -106,6 +106,22 @@ Dann habe ich mit dem Dockerfile ein Docker Image erstellt
 
 Danach habe ich das Image gestartet
 `docker run --rm -d -p 8080:80 -v /web:/var/www/html --name TollerContainer123 ImageID`
+
+Ich habe noch ein kleines HTML Index File gemacht, um den Apache Server zu testen
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>M300</title>
+</head>
+<body>
+<h1>LB02 GitHub Repository</h1>
+<a>Das GitHub Repository für die LB02 ist unter folgendem Link erreichbar:</a>
+<a href="https://github.com/armascool/M300-Services/tree/main/LB02">link to lb02 krebs</a>
+</body>
+</html>
+```
 ## Docker Volumes
 ## Image-Bereitstellung
 ## Netzwerkplan meiner Infrastruktur
