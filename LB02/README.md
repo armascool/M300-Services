@@ -25,7 +25,7 @@ M300 - 30 Container
 
 M300 - 35 Sicherheit
 
-* [Sicherheiten](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#was-sind-container)
+* [Sicherheiten](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#sicherheiten)
 
 
 ## Was sind Container?
