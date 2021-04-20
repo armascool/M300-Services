@@ -24,6 +24,13 @@ M300 - 30 Container
 
 
 ## Was sind Container?
+Container gibt es in der IT, weil es eine Problematik gib wenn man eine Software austesten möchte. Das Problem ist, dass jedes Programm abhängig ist von gewissen Sachen ihrer Umgebung. Diese Sachen sind Libraries und Systemeinstellungen. Mit Umgebung ist das gemeint, wo die Software getestet wird, also in einer Test oder Produktiven Umgebung. Eine weitere Problematik ist das Betriebsystem auf dem die getestete Software läuft, die Version vom OS und die Einstellungen, Netzwerk Einstellungen. 
+
+Jetzt kommen diese Container zum Zuge. Dank Containern kann man die "optimale" Umgebung für einen Softwaretest mobil und flexibel und einfach erstellen, von System zu System verschieben ohne Probleme. Das macht die sogenannte Abschottung des Containers möglich. Es ist etwa gleich wie bei einer virtuellen Maschine. Es ist so abgeschottet, sodass man es leicht erstellen, zerstören, starten und verschieben kann ohne Probleme bei einer anderen Umgebung oder so zu bekommen.
+
+Das Problem mit VMs sind dass jeder Software Test eine eigene VM benötigt. Jede einzelne VM benötigt ein eigenes Betriebsystem, dies läuft auf dem virtualisierendem Betriebsystem. Das lässt also nicht so viele Testumgebungen gleichzeitig zur Verfügung wie Container Lösungen. Das kommt daher, das Container kein eigenes Betriebsystem benötigen, sonder auf dem Host Betriebsystem laufen, aber die für die Testumgebung benötige Software, Ihre Libraries und Einstellungen sind aber alles in einem Container abgeschottet von der Host Betriebsystem. Ausserdem können Container sehr viel schneller erstellt, zerstört, gestartet, gestoppt und leichter verschoben werden. VM fressen einem also die Ressourcen weg Container aber nicht so sehr, diese benötigen viel weniger weil das Gast Betriebsystem weg fällt. 
+![image](https://user-images.githubusercontent.com/78543196/115438399-a3202700-a20d-11eb-926b-c137a89a7249.png)
+
 ## Was ist Docker?
 ## Docker Befehle
 Befehl | Erklärung 
