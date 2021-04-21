@@ -202,7 +202,8 @@ Kubernetes kann man mit API fernsteuern, es gibt auch eine Kommandozeilentool na
 
 ## Service
 
-![image](https://user-images.githubusercontent.com/78543196/115600038-87378680-a2dc-11eb-9f97-fda84db26781.png)
+
+![image](https://user-images.githubusercontent.com/78543196/115610015-93294580-a2e8-11eb-96dd-654336799a43.png)
 
 ![image](https://user-images.githubusercontent.com/78543196/115609765-3e85ca80-a2e8-11eb-98a4-99265b8da028.png)
 
