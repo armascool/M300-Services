@@ -136,13 +136,13 @@ Dann noch diese Index Datei in den Container kopieren
 `docker cp /SpeicherortDerDatei/index.html ContainereName:/var/www/html/`
 ## Docker Volumes
 ## Image-Bereitstellung
-
+Hier habe ich ein einfachen Ubuntu container erstellt und diesen auf Dockerhub gepusht, sodass ihn jetzt jeder auf der Welt benutzer könnte, wenn er wolle.  
+  
+Dazu musste ich erst einen Container erstellen, dann mich mit docker login auf dockerhub einloggen also in der Konsole einloggen und als letztes noch das Image auf Dokcerhub push und einmal pullen.
 ```
-docker run -d -t --name dockerhubtest ubuntu  
-docker exec -it container_con /bin/bash  
+docker run -d -t --name dockerhubtest ubuntu    
 docker images  
-docker ps  
-docker run -d -t --name dockerhubtest ubuntu  
+docker ps    
 docker exec -it dockerhubtest /bin/bash  
 docker login  
 docker commit dockerhubtest  armascool/dockerhubtest:v0.1  
