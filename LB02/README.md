@@ -20,7 +20,6 @@ M300 - 30 Container
 * [Docker Befehle](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#docker-befehle)
 * [Docker File Befehle](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#docker-file-befehle)
 * [Docker Tutorial](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#docker-tutorial)
-* [Docker Volumes](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#docker-volumes)
 * [Image-Bereitstellung](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#image-bereitstellung)
 * [Netzwerkplan meiner Infrastruktur](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#netzwerkplan-meiner-infrastruktur)
 
@@ -140,7 +139,6 @@ docker exec -it container_con /bin/bash
 ```
 Dann noch diese Index Datei in den Container kopieren
 `docker cp /SpeicherortDerDatei/index.html ContainereName:/var/www/html/`
-## Docker Volumes
 ## Image-Bereitstellung
 Hier habe ich einen einfachen Ubuntu Container erstellt und diesen auf Dockerhub gepusht, sodass ihn jetzt jeder auf der Welt benutzen könnte, wenn er wolle.  
   
