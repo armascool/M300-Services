@@ -192,6 +192,11 @@ Zugriff auf Cadvisor:
 ![image](https://user-images.githubusercontent.com/78543196/115520252-41ea6900-a28a-11eb-881b-c01e3b66dd92.png)
 
 ## Was ist Kubernetes?
+Im produktiven Betrieb hat man ein Problem wenn man Docker verwendet, da hin und wieder Hardware ausfallen könnte und Docker nicht für solche fälle gewappnet ist.  
+  
+Kubernetes kann diese Hochverfügbarkeit ermöglichen. Es ist ein Cluster für Docker Container. Der Server ist zwei geteilt, es gibt Master Server, und es gibt Worker Server.  
+  
+Kubernetes kann man mit API fernsteuern, es gibt auch eine Kommandozeilentool namens Kubectl.  
 ## Kubernetes Befehle
 ## Kubernetes
 ## Service
