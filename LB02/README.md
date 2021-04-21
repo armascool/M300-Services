@@ -254,6 +254,11 @@ spec:
     app: m300-kuber
   sessionAffinity: None
 ```
+Service ausführen:  
+`kubectl apply -f loadbalancerr.yaml`
+
+Service anzeigen:
+`kubectl get services`
 
 ![image](https://user-images.githubusercontent.com/78543196/115610015-93294580-a2e8-11eb-96dd-654336799a43.png)
 
