@@ -184,4 +184,4 @@ Container erstellen mit cadvisor:
 docker run -d --name cadvisor -v /:/rootfs:ro -v /var/run:/var/run:rw -v /sys:/sys:ro -v /var/lib/docker/:/var/lib/docker:ro -p 8010:8080 google/cadvisor:latest
 ```
 Zugriff auf Cadvisor:  
-Bild
+![image](https://user-images.githubusercontent.com/78543196/115520252-41ea6900-a28a-11eb-881b-c01e3b66dd92.png)
