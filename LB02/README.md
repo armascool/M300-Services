@@ -29,8 +29,8 @@ M300 - 35 Sicherheit
 * [Sicherheiten](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#sicherheiten)
 
 M300 - 40 Kubernetes
-* [Was ist Kubernetes?](https://google.ch)
-* [Kubernetes Befehle](https://google.ch)
+* [Was ist Kubernetes?](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#was-ist-kubernetes)
+* [Kubernetes Befehle](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#kubernetes-befehle)
 * [Kubernetes](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#kubernetes)
 * [Service](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#service)
 
