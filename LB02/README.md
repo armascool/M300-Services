@@ -226,13 +226,34 @@ Danach habe ich das File ausgeführt, sodass die Container und Pods erstellt wer
 File starten:  
 `kubectl apply -f kubdeploymentt.yaml`  
 
+Und mit kubectl get pods kann man wie auf dem unten stehen Bild sehen, welche Pods laufen.
 
 
 ![image](https://user-images.githubusercontent.com/78543196/115609877-6412d400-a2e8-11eb-876a-1f163cc0d2af.png)
 
 
 ## Service
-
+Hier habe ein weiteres yaml File erstellt, eine yaml loadbalancer (loadbalancerr.yaml)
+```
+apiVersion: v1
+kind: Service
+metadata:
+  name: m300servicejj
+  annotations:
+    service.beta.kubernetes.io/linode-loadbalancer-throttle: "4"
+  labels:
+    app: m300servicejj
+spec:
+  type: LoadBalancer
+  ports:
+  - name: http
+    port: 80
+    protocol: TCP
+    targetPort: 80
+  selector:
+    app: m300-kuber
+  sessionAffinity: None
+```
 
 ![image](https://user-images.githubusercontent.com/78543196/115610015-93294580-a2e8-11eb-96dd-654336799a43.png)
 
