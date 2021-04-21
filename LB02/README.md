@@ -8,7 +8,7 @@ Ich habe vor der LB02 keinerlei Vorkenntnisse über Docker und Kubernetes gehabt
 
 ### Wissenzuwachs
 Ich habe gelernt wie man mit Dockerfiles, Docker Images erstellt und wie man mit Docker Images Container erstellt und diese verwendet. Ich habe grundlegende Commands von Docker gelernt. Ich habe auch gelernt wie man einen Apache Webserver, der von ausserhalb dem Container erreichbar ist, erstellt. Danach habe ich mir angeschaut und ausgetestet wie Dockerhub funktioniert.
-Als nächstes habe ich mir die Sicherheit unter Docker unter die Lupe genommen und gelernt, dass ...
+Als nächstes habe ich mir die Sicherheit unter Docker unter die Lupe genommen und gelernt, dass man mit ganz einfach prinzipien die Sicherheit von Docker und Kubernetes erhöhen kann. Und der Teil, bei dem ich am meisten von diesem ganzen Modul gelernt habe ist Kubernetes. Da dieses Tool so gross und umfangreich ist. Ich habe mir sehr viele Youtube video, tutorial und guides im Interent angeschaut, sowie unzählige Blogs im Internet durchgelesen, bis mein Apachewebserver Kubernetes funktioniert hat.
 
 
 ## Übersicht der LB02
