@@ -7,7 +7,8 @@ Das Hauptthema der LB02 ist die Containerisierung mit den Programmen Docker und 
 Ich habe vor der LB02 keinerlei Vorkenntnisse über Docker und Kubernetes gehabt.
 
 ### Wissenzuwachs
-Unten habe ich dokumentiert, wie ich vorgegangen bin um den Umgang mit Docker und Kubernetes kennenzulernen und was man mit den beiden für Möglichkeiten hat.
+Ich habe gelernt wie man mit Dockerfiles, Docker Images erstellt und wie man mit Docker Images Container erstellt und diese verwendet. Ich habe grundlegende Commands von Docker gelernt. Ich habe auch gelernt wie man einen Apache Webserver, der von ausserhalb dem Container erreichbar ist, erstellt. Danach habe ich mir angeschaut und ausgetestet wie Dockerhub funktioniert.
+Als nächstes habe ich mir die Sicherheit unter Docker unter die Lupe genommen und gelernt, dass ...
 
 
 ## Übersicht der LB02
