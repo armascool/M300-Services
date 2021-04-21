@@ -196,6 +196,37 @@ Kubernetes kann diese Hochverfügbarkeit ermöglichen. Es ist ein Cluster für D
 Kubernetes kann man mit API fernsteuern, es gibt auch eine Kommandozeilentool namens Kubectl.  
 ## Kubernetes
 
+#### Deployment erstellen
+Als erstes habe ich eine yaml deployment Datei erstellt. (kubdeploymentt.yaml)
+```
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: m300-kuberchen
+  labels:
+    app: m300-kuber
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      app: m300-kuber
+  template:
+    metadata:
+      labels:
+        app: m300-kuber
+    spec:
+      containers:
+      - name: m300-app
+        image: armascool/apachee-cloud:2
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
+```
+Danach habe ich das File ausgeführt, sodass die Container und Pods erstellt werden und laufen.  
+File starten:  
+`kubectl apply -f kubdeploymentt.yaml`  
+
+
 
 ![image](https://user-images.githubusercontent.com/78543196/115609877-6412d400-a2e8-11eb-876a-1f163cc0d2af.png)
 
