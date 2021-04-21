@@ -158,5 +158,24 @@ docker pull armascool/dockerhubtest:v0.1
 
 
 ## Sicherheiten
-jj
+Es gibt verschiedene Methoden Sicherheitsmassnahmen einzuführen. Ich habe folgende ausgetestet.
 
+### non root as standarduser
+Das heisst, dass man beim Dockerfile folgendes hineinschreiben muss, sodass man sich beim Docker nicht mit dem root einloggt, sondern einen neuen User erstellt.
+
+```
+RUN useradd -ms /bin/bash [username] \
+USER [username] \
+WORKDIR /home/[username]
+```
+
+### read only
+Beim Containerstart kann man eine Read-Only option beifügen, um das Dateisystem vor Änderungen zu schützen.
+```
+docker run --read-only -d -t --name [NameDesContainer] [Image]
+```
+### Dockerfiles von andereren kopieren birgt Gefahr
+Das kommt daher, dass Dockerfiles mit Malware verseucht sein können, dies ist nicht der Fall wenn man sie selber macht.
+
+### Monitoring unter Docker
+Das geht zum Beispiel mit dem gratis Monitoring Tool Cadvisior von Google.
