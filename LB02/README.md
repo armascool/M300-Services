@@ -32,7 +32,7 @@ M300 - 40 Kubernetes
 * [Was ist Kubernetes?](https://google.ch)
 * [Kubernetes Befehle](https://google.ch)
 * [Kubernetes](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#kubernetes)
-* [Kubernetes](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#service)
+* [Service](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#service)
 
 ## Was sind Container?
 Container gibt es in der IT, weil es eine Problematik gib wenn man eine Software austesten möchte. Das Problem ist, dass jedes Programm abhängig ist von gewissen Sachen ihrer Umgebung. Diese Sachen sind Libraries und Systemeinstellungen. Mit Umgebung ist das gemeint, wo die Software getestet wird, also in einer Test oder Produktiven Umgebung. Eine weitere Problematik ist das Betriebsystem auf dem die getestete Software läuft, die Version vom OS und die Einstellungen, Netzwerk Einstellungen. 
