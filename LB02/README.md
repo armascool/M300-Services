@@ -29,7 +29,6 @@ M300 - 35 Sicherheit
 
 M300 - 40 Kubernetes
 * [Was ist Kubernetes?](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#was-ist-kubernetes)
-* [Kubernetes Befehle](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#kubernetes-befehle)
 * [Kubernetes](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#kubernetes)
 * [Service](https://github.com/armascool/M300-Services/blob/main/LB02/README.md#service)
 
@@ -195,6 +194,5 @@ Im produktiven Betrieb hat man ein Problem wenn man Docker verwendet, da hin und
 Kubernetes kann diese Hochverfügbarkeit ermöglichen. Es ist ein Cluster für Docker Container. Der Server ist zwei geteilt, es gibt Master Server, und es gibt Worker Server.  
   
 Kubernetes kann man mit API fernsteuern, es gibt auch eine Kommandozeilentool namens Kubectl.  
-## Kubernetes Befehle
 ## Kubernetes
 ## Service
